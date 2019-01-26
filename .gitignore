@@ -1,4 +1,4 @@
-build/CMakeFile/*
+build/CMakeFiles/*
 build/CMakeCache.txt
 buil/cmake_install.cmake
 build/exec
