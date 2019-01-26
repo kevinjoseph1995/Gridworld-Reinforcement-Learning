@@ -1,3 +1,0 @@
-/home/kevinjoseph/Documents/Projects/Gridworld/build/CMakeFiles/rebuild_cache.dir
-/home/kevinjoseph/Documents/Projects/Gridworld/build/CMakeFiles/exec.dir
-/home/kevinjoseph/Documents/Projects/Gridworld/build/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++  -pthread  -rdynamic CMakeFiles/exec.dir/src/main.cpp.o CMakeFiles/exec.dir/src/gridworld.cpp.o  -o exec 
